@@ -80,13 +80,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gaopengbin&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaopengbin&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
-
----
-
 📍 北京 &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 求职中 — AI 应用开发工程师
