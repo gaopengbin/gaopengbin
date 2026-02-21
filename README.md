@@ -56,11 +56,16 @@
 </td>
 <td width="50%">
 
-**🗺️ [tif-downloader](https://github.com/gaopengbin/tif-downloader)** — 遥感影像下载工具
+**� [simple-rag](https://github.com/gaopengbin/simple-rag)** — 双版本 RAG 知识库
 
-批量下载处理遥感影像数据 ⭐ 10 stars
+手写实现 vs LangChain 版的完整对比，附 LangSmith 追踪
 
-`Python` `GIS` `遥感数据处理`
+`Python` `FastAPI` `Celery` `Redis` `Chroma` `LangChain` `Docker`
+
+- ✅ 原版：手写 Embedding / 分块 / 向量检索全链路
+- ✅ LC 版：LCEL 管道 + LangSmith Prompt 版本管理
+- ✅ Chroma 大文件分批写入（解决 SQLite 5461 上限）
+- ✅ Docker Compose 双端口并行部署（8000 / 8001）
 
 </td>
 </tr>
@@ -70,7 +75,7 @@
 
 ### 🛠️ 技术栈
 
-**AI 应用**&ensp; ![](https://img.shields.io/badge/RAG-blue) ![](https://img.shields.io/badge/Agent-blue) ![](https://img.shields.io/badge/Function_Calling-blue) ![](https://img.shields.io/badge/MCP-blue) ![](https://img.shields.io/badge/Embedding-blue) ![](https://img.shields.io/badge/LangChain-blue)
+**AI 应用**&ensp; ![](https://img.shields.io/badge/RAG-blue) ![](https://img.shields.io/badge/Agent-blue) ![](https://img.shields.io/badge/Function_Calling-blue) ![](https://img.shields.io/badge/MCP-blue) ![](https://img.shields.io/badge/Embedding-blue) ![](https://img.shields.io/badge/LangChain-blue) ![](https://img.shields.io/badge/LangSmith-blue)
 
 **前端**&ensp; ![](https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black) ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
 
