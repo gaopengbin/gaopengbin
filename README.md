@@ -61,11 +61,11 @@ AI 自主调用工具、操作电脑、执行复杂任务
 <tr>
 <td width="50%">
 
-**🎬 [FZSW](https://github.com/gaopengbin/FZSW)** — AI Multimedia Studio
+**🗺️ [tif-downloader](https://github.com/gaopengbin/tif-downloader)** — Map Tile Downloader
 
-TTS + AI 对话 + 视频生成 + 2D/3D 剧场
+多源地图瓦片下载 + GeoTIFF 拼接 + OSM 矢量数据
 
-`React` `Python` `Flask` `Three.js` `ComfyUI`
+`Python` `FastAPI` `Rasterio` `Leaflet.js` `GDAL`
 
 </td>
 <td width="50%">
