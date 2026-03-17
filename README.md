@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Pengbin Gao
 
-**AI Application Engineer** — AI Agent · MCP · RAG · Full-Stack
+**GIS + AI Engineer** — CesiumJS · MCP · AI Agent · Full-Stack
 
-6 years of full-stack web development, now focused on shipping AI-powered products.
+6 years of full-stack web development, focused on bridging GIS and AI — building intelligent spatial tools with LLMs.
 
-> **你好 👋 我是高鹏彬** — AI 应用开发工程师，6 年全栈经验，擅长将 LLM 能力落地为实际产品。
+> **你好 👋 我是高鹏彬** — GIS + AI 工程师，6 年全栈经验，专注 GIS 与 AI 融合，用大模型构建智能空间工具。
 
 ---
 
@@ -84,14 +84,12 @@ AI 自主调用工具、操作电脑、执行复杂任务
 
 ### 🛠️ Tech Stack / 技术栈
 
+**GIS**&ensp; ![](https://img.shields.io/badge/CesiumJS-6caddf) ![](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white) ![](https://img.shields.io/badge/GDAL-5CAD4F) ![](https://img.shields.io/badge/GeoTIFF-blue) ![](https://img.shields.io/badge/GeoJSON-blue)
+
 **AI**&ensp; ![](https://img.shields.io/badge/MCP-blue) ![](https://img.shields.io/badge/RAG-blue) ![](https://img.shields.io/badge/Agent-blue) ![](https://img.shields.io/badge/Function_Calling-blue) ![](https://img.shields.io/badge/LangChain-blue)
 
-**Frontend**&ensp; ![](https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black) ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/CesiumJS-6caddf)
-
-**Backend**&ensp; ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-
-**Tools**&ensp; ![](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Tauri-24c8db?logo=tauri&logoColor=white) ![](https://img.shields.io/badge/Playwright-2ead33?logo=playwright&logoColor=white)
+**Dev**&ensp; ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black) ![](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 
 ---
 
-📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 Open to work — AI Application Engineer
+📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 Open to work — GIS + AI Engineer
