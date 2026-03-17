@@ -31,6 +31,23 @@ Control CesiumJS through natural language — camera, entities, layers, animatio
 
 </td>
 </tr>
+<tr>
+<td>
+
+**🗺️ [GeoAgent](https://github.com/gaopengbin/GeoAgent)** — AI Geospatial Analysis Platform
+
+35+ GIS tools + Cesium 3D globe + AI Agent — data ingestion, spatial analysis, visualization, and report generation via natural language.
+
+用自然语言操控地图 — AI 自动完成数据接入 → 空间分析 → 可视化渲染 → 报告生成。
+
+<p>
+  <a href="https://github.com/gaopengbin/GeoAgent"><img src="https://img.shields.io/github/stars/gaopengbin/GeoAgent?style=social" alt="stars"></a>
+</p>
+
+`Vue 3` `Python` `FastAPI` `LangGraph` `CesiumJS` `cesium-mcp-bridge`
+
+</td>
+</tr>
 </table>
 
 ---
