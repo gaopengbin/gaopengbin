@@ -8,6 +8,30 @@
 
 ---
 
+### 🔍 Open to Work / 求职中
+
+<table>
+<tr>
+<td>
+
+**📍 北京 Beijing** &ensp;|&ensp; **6 年全栈开发经验** &ensp;|&ensp; **随时到岗**
+
+**目标岗位：** GIS 前端开发 / 三维可视化 / AI 应用开发 / 前端架构
+
+**核心能力：**
+- 🌍 **GIS 三维可视化**：6 年 Cesium + OpenLayers 实战，自研组件库 25+ 组件，20 万+管线渲染优化（5fps→40fps）
+- 🤖 **AI 应用开发**：RAG 知识库系统 / AI Agent 框架 / MCP 协议 / Function Calling / 流式对话
+- 🏗️ **前端架构**：Vue 3 + TypeScript + Vite，pnpm monorepo 组件库（60+ 组件），完整工程化体系
+- 📦 **开源贡献**：cesium-mcp（49 工具，向 CesiumGS 官方提交 Feature Request）
+
+**✉️ 联系方式：** 1804287165@qq.com
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🌟 Featured / 主推项目
 
 <table>
@@ -101,12 +125,21 @@ AI 自主调用工具、操作电脑、执行复杂任务
 
 ### 🛠️ Tech Stack / 技术栈
 
-**GIS**&ensp; ![](https://img.shields.io/badge/CesiumJS-6caddf) ![](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white) ![](https://img.shields.io/badge/GDAL-5CAD4F) ![](https://img.shields.io/badge/GeoTIFF-blue) ![](https://img.shields.io/badge/GeoJSON-blue)
+**GIS**&ensp; ![](https://img.shields.io/badge/CesiumJS-6caddf) ![](https://img.shields.io/badge/OpenLayers-1F6B75) ![](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white) ![](https://img.shields.io/badge/GDAL-5CAD4F) ![](https://img.shields.io/badge/GeoTIFF-blue) ![](https://img.shields.io/badge/GeoJSON-blue) ![](https://img.shields.io/badge/WebGL-990000)
 
-**AI**&ensp; ![](https://img.shields.io/badge/MCP-blue) ![](https://img.shields.io/badge/RAG-blue) ![](https://img.shields.io/badge/Agent-blue) ![](https://img.shields.io/badge/Function_Calling-blue) ![](https://img.shields.io/badge/LangChain-blue)
+**AI**&ensp; ![](https://img.shields.io/badge/MCP-blue) ![](https://img.shields.io/badge/RAG-blue) ![](https://img.shields.io/badge/Agent-blue) ![](https://img.shields.io/badge/Function_Calling-blue) ![](https://img.shields.io/badge/LangChain-blue) ![](https://img.shields.io/badge/LangGraph-blue)
 
-**Dev**&ensp; ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black) ![](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
+**Dev**&ensp; ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black) ![](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 ---
 
-📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 Open to work — GIS + AI Engineer
+### 💼 Work Experience / 工作经历
+
+| 时间 | 公司 | 角色 | 核心产出 |
+|------|------|------|---------|
+| 2020–2025 | 山维科技（北京） | 前端负责人 | Cesium 三维组件库（25+ 组件）、Vue3 业务组件库（60+ 组件）、GIS 服务管理平台 |
+| 2020 | 国遥新天地 | GIS 开发工程师 | 低空态势感知系统、电子围栏、目标轨迹追踪 |
+
+---
+
+📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 **Open to work — GIS · 三维可视化 · AI应用 · 前端架构**
