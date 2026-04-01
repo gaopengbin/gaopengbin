@@ -8,21 +8,17 @@
 
 ---
 
-### 🔍 Open to Work / 求职中
+### 🤝 Open to Collaborate / 欢迎合作
 
 <table>
 <tr>
 <td>
 
-**📍 北京 Beijing** &ensp;|&ensp; **6 年全栈开发经验** &ensp;|&ensp; **随时到岗**
+**📍 北京 Beijing** &ensp;|&ensp; **6 年全栈开发经验**
 
-**目标岗位：** GIS 前端开发 / 三维可视化 / AI 应用开发 / 前端架构
+**擅长领域：** GIS 三维可视化 · AI Agent/MCP · 前端架构
 
-**核心能力：**
-- 🌍 **GIS 三维可视化**：6 年 Cesium + OpenLayers 实战，自研组件库 25+ 组件，20 万+管线渲染优化（5fps→40fps）
-- 🤖 **AI 应用开发**：RAG 知识库系统 / AI Agent 框架 / MCP 协议 / Function Calling / 流式对话
-- 🏗️ **前端架构**：Vue 3 + TypeScript + Vite，pnpm monorepo 组件库（60+ 组件），完整工程化体系
-- 📦 **开源贡献**：cesium-mcp（49 工具，向 CesiumGS 官方提交 Feature Request）
+欢迎在 GIS + AI 方向的技术合作、开源协作、项目咨询。
 
 **✉️ 联系方式：** 1804287165@qq.com
 
