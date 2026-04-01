@@ -142,4 +142,4 @@ AI 自主调用工具、操作电脑、执行复杂任务
 
 ---
 
-📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 **Open to work — GIS · 三维可视化 · AI应用 · 前端架构**
+📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 **Open to collaborate — GIS + AI / 欢迎合作交流**
