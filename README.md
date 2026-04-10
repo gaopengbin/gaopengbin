@@ -58,11 +58,11 @@ Tauri desktop app powered by [cesium-mcp](https://github.com/gaopengbin/cesium-m
 <tr>
 <td width="33%">
 
-**📥 [geo-downloader](https://github.com/gaopengbin/geo-downloader)** — Map Tile Downloader
+**📥 [geo-downloader](https://github.com/gaopengbin/geo-downloader)** — GeoDownloader
 
-多源地图瓦片下载 + GeoTIFF 拼接 + 矢量裁剪
+地理空间数据下载桌面工具 — GeoTIFF 瓦片 / Google 3D Tiles / Esri Wayback 历史影像，跨平台 (Win/Mac/Linux)
 
-`Python` `FastAPI` `Rasterio` `GDAL`
+`Rust` `Tauri` `JavaScript` `GeoTIFF` `3D Tiles`
 
 </td>
 <td width="33%">
