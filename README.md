@@ -8,26 +8,6 @@
 
 ---
 
-### 🤝 Open to Collaborate / 欢迎合作
-
-<table>
-<tr>
-<td>
-
-**📍 北京 Beijing** &ensp;|&ensp; **6 年全栈开发经验**
-
-**擅长领域：** GIS 三维可视化 · AI Agent/MCP · 前端架构
-
-欢迎在 GIS + AI 方向的技术合作、开源协作、项目咨询。
-
-**✉️ 联系方式：** 1804287165@qq.com
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🌟 Featured / 主推项目
 
 <table>
@@ -36,9 +16,9 @@
 
 **🌍 [Cesium MCP](https://github.com/gaopengbin/cesium-mcp)** — AI-Powered 3D Globe Control via MCP
 
-Control CesiumJS through natural language — camera, entities, layers, animation, and spatial analysis. 49 tools, i18n, remote server support.
+Control CesiumJS through natural language — camera, entities, layers, animation, and spatial analysis. 59 tools across 12 toolsets, i18n, remote server support.
 
-用自然语言控制 CesiumJS 三维地球 — 相机、实体、图层、动画、空间分析，49 个工具，支持中英文、远程服务。
+用自然语言控制 CesiumJS 三维地球 — 相机、实体、图层、动画、空间分析，59 个工具 / 12 个工具集，支持中英文、远程服务。
 
 <p>
   <a href="https://github.com/gaopengbin/cesium-mcp"><img src="https://img.shields.io/github/stars/gaopengbin/cesium-mcp?style=social" alt="stars"></a>
@@ -54,17 +34,17 @@ Control CesiumJS through natural language — camera, entities, layers, animatio
 <tr>
 <td>
 
-**🗺️ [GeoAgent](https://github.com/gaopengbin/GeoAgent)** — AI Geospatial Analysis Platform
+**🤖 [GaiaAgent](https://github.com/gaopengbin/GaiaAgent)** — GIS AI Assistant with 3D Globe
 
-35+ GIS tools + Cesium 3D globe + AI Agent — data ingestion, spatial analysis, visualization, and report generation via natural language.
+Tauri desktop app — multi-provider LLM (OpenAI/Ollama/Volcengine), MCP client for extensible tools, smart tool filtering, streaming reasoning display, bilingual UI.
 
-用自然语言操控地图 — AI 自动完成数据接入 → 空间分析 → 可视化渲染 → 报告生成。
+GIS AI 智能助手桌面应用 — 多 LLM 接入、MCP 客户端扩展工具生态、智能工具筛选、流式思考展示、中英双语界面。
 
 <p>
-  <a href="https://github.com/gaopengbin/GeoAgent"><img src="https://img.shields.io/github/stars/gaopengbin/GeoAgent?style=social" alt="stars"></a>
+  <a href="https://github.com/gaopengbin/GaiaAgent"><img src="https://img.shields.io/github/stars/gaopengbin/GaiaAgent?style=social" alt="stars"></a>
 </p>
 
-`Vue 3` `Python` `FastAPI` `LangGraph` `CesiumJS` `cesium-mcp-bridge`
+`Tauri` `Rust` `React` `TypeScript` `CesiumJS` `MCP`
 
 </td>
 </tr>
@@ -76,42 +56,31 @@ Control CesiumJS through natural language — camera, entities, layers, animatio
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-**🤖 [lite-claw](https://github.com/gaopengbin/lite-claw)** — AI Agent Framework
+**📥 [geo-downloader](https://github.com/gaopengbin/geo-downloader)** — Map Tile Downloader
 
-AI 自主调用工具、操作电脑、执行复杂任务
+多源地图瓦片下载 + GeoTIFF 拼接 + 矢量裁剪
 
-`TypeScript` `Node.js` `Function Calling` `MCP` `Playwright`
-
-</td>
-<td width="50%">
-
-**🔍 [chat-ai-analyzer](https://github.com/gaopengbin/chat-ai-analyzer)** — RAG Chat Analyzer
-
-基于 RAG 的聊天记录智能分析 — 提问、摘要、角色模拟
-
-`Vue 3` `Rust` `Tauri 2.0` `Ollama` `Embedding`
+`Python` `FastAPI` `Rasterio` `GDAL`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
-**🗺️ [tif-downloader](https://github.com/gaopengbin/tif-downloader)** — Map Tile Downloader
+**🗺️ [mapbox-mcp](https://github.com/gaopengbin/mapbox-mcp)** — AI Control for Mapbox GL JS
 
-多源地图瓦片下载 + GeoTIFF 拼接 + OSM 矢量数据
+40+ 工具 / 8 个工具集，自然语言操控 Mapbox 地图
 
-`Python` `FastAPI` `Rasterio` `Leaflet.js` `GDAL`
+`TypeScript` `MCP` `Mapbox GL JS`
 
 </td>
-<td width="50%">
+<td width="33%">
 
-**📚 [simple-rag](https://github.com/gaopengbin/simple-rag)** — RAG from Scratch
+**🌐 [openlayers-mcp](https://github.com/gaopengbin/openlayers-mcp)** — AI Control for OpenLayers
 
-手写 vs LangChain 双版本 RAG，含 LangSmith 追踪
+30+ 工具 / 7 个工具集，自然语言操控 OpenLayers
 
-`Python` `FastAPI` `Chroma` `LangChain` `Docker`
+`TypeScript` `MCP` `OpenLayers`
 
 </td>
 </tr>
