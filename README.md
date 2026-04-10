@@ -34,11 +34,11 @@ Control CesiumJS through natural language — camera, entities, layers, animatio
 <tr>
 <td>
 
-**🤖 [GaiaAgent](https://github.com/gaopengbin/GaiaAgent)** — GIS AI Assistant with 3D Globe
+**🤖 [GaiaAgent](https://github.com/gaopengbin/GaiaAgent)** — GIS AI Assistant built on Cesium MCP
 
-Tauri desktop app — multi-provider LLM (OpenAI/Ollama/Volcengine), MCP client for extensible tools, smart tool filtering, streaming reasoning display, bilingual UI.
+Tauri desktop app powered by [cesium-mcp](https://github.com/gaopengbin/cesium-mcp) — multi-provider LLM, MCP client for extensible tools, smart tool filtering, streaming reasoning display, bilingual UI.
 
-GIS AI 智能助手桌面应用 — 多 LLM 接入、MCP 客户端扩展工具生态、智能工具筛选、流式思考展示、中英双语界面。
+基于 cesium-mcp 构建的 GIS AI 桌面助手 — 多 LLM 接入、MCP 客户端扩展工具生态、智能工具筛选、流式思考展示、中英双语界面。
 
 <p>
   <a href="https://github.com/gaopengbin/GaiaAgent"><img src="https://img.shields.io/github/stars/gaopengbin/GaiaAgent?style=social" alt="stars"></a>
