@@ -1,10 +1,20 @@
-## Hi there 👋 I'm Pengbin Gao
+<div align="center">
 
-**GIS + AI Engineer** — CesiumJS · MCP · AI Agent · Full-Stack
+# Hi there 👋 I'm Pengbin Gao
 
-6 years of full-stack web development, focused on bridging GIS and AI — building intelligent spatial tools with LLMs.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=GIS+%2B+AI+Engineer;CesiumJS+%C2%B7+MCP+%C2%B7+AI+Agent;Full-Stack+Developer;Building+Intelligent+Spatial+Tools)](https://git.io/typing-svg)
+
+**6 years** of full-stack web development, focused on **bridging GIS and AI** — building intelligent spatial tools with LLMs.
 
 > **你好 👋 我是高鹏彬** — GIS + AI 工程师，6 年全栈经验，专注 GIS 与 AI 融合，用大模型构建智能空间工具。
+
+<p align="center">
+  <a href="mailto:1804287165@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/gaopengbin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=gaopengbin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+</div>
 
 ---
 
@@ -90,11 +100,58 @@ Tauri desktop app powered by [cesium-mcp](https://github.com/gaopengbin/cesium-m
 
 ### 🛠️ Tech Stack / 技术栈
 
-**GIS**&ensp; ![](https://img.shields.io/badge/CesiumJS-6caddf) ![](https://img.shields.io/badge/OpenLayers-1F6B75) ![](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white) ![](https://img.shields.io/badge/GDAL-5CAD4F) ![](https://img.shields.io/badge/GeoTIFF-blue) ![](https://img.shields.io/badge/GeoJSON-blue) ![](https://img.shields.io/badge/WebGL-990000)
+<div align="center">
 
-**AI**&ensp; ![](https://img.shields.io/badge/MCP-blue) ![](https://img.shields.io/badge/RAG-blue) ![](https://img.shields.io/badge/Agent-blue) ![](https://img.shields.io/badge/Function_Calling-blue) ![](https://img.shields.io/badge/LangChain-blue) ![](https://img.shields.io/badge/LangGraph-blue)
+#### 🌍 GIS & Spatial
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6caddf?style=for-the-badge&logo=cesium&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAD4F?style=for-the-badge)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-47A248?style=for-the-badge)
 
-**Dev**&ensp; ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black) ![](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+#### 🤖 AI & LLM
+![MCP](https://img.shields.io/badge/MCP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C5BB4?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge)
+![Agent](https://img.shields.io/badge/AI_Agent-8B5CF6?style=for-the-badge)
+
+#### 💻 Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats / GitHub 统计
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaopengbin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaopengbin&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaopengbin&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gaopengbin&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -107,4 +164,16 @@ Tauri desktop app powered by [cesium-mcp](https://github.com/gaopengbin/cesium-m
 
 ---
 
-📍 Beijing, China &ensp;|&ensp; ✉️ 1804287165@qq.com &ensp;|&ensp; 💼 **Open to collaborate — GIS + AI / 欢迎合作交流**
+<div align="center">
+
+### 📫 Let's Connect / 联系我
+
+📍 **Beijing, China** &ensp;|&ensp; ✉️ **1804287165@qq.com**
+
+💼 **Open to collaborate — GIS + AI projects / 欢迎合作交流 GIS + AI 项目**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
