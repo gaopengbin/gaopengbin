@@ -24,7 +24,27 @@
 <tr>
 <td>
 
-**🌍 [Cesium MCP](https://github.com/gaopengbin/cesium-mcp)** — AI-Powered 3D Globe Control via MCP
+**🌍 [GeoDownloader](https://github.com/gaopengbin/geo-downloader)** — High-Performance Geospatial Data Download Tool
+
+All-in-one desktop tool for downloading geospatial data — 2D imagery tiles, vector tiles, 3D Tiles, DEM, Esri Wayback historical imagery. Exports GeoTIFF/MBTiles/GeoPackage. Rust + Tauri, ~10MB installer, Win/Mac/Linux.
+
+一站式地理空间数据下载桌面工具 — 2D 瓦片 / 矢量瓦片 / 3D Tiles / DEM / Wayback 历史影像，导出 GeoTIFF/MBTiles/GeoPackage。Rust + Tauri 构建，安装包仅 10MB，全平台支持。
+
+<p>
+  <a href="https://github.com/gaopengbin/geo-downloader"><img src="https://img.shields.io/github/stars/gaopengbin/geo-downloader?style=social" alt="stars"></a>
+  <a href="https://github.com/gaopengbin/geo-downloader/releases"><img src="https://img.shields.io/github/downloads/gaopengbin/geo-downloader/total?color=brightgreen&label=downloads" alt="downloads"></a>
+  <a href="https://github.com/gaopengbin/geo-downloader/releases/latest"><img src="https://img.shields.io/github/v/release/gaopengbin/geo-downloader?color=2563eb" alt="release"></a>
+  <a href="https://geodownloader.pages.dev"><img src="https://img.shields.io/badge/Website-geodownloader.pages.dev-blue" alt="website"></a>
+</p>
+
+`Rust` `Tauri` `React` `TypeScript` `GeoTIFF` `3D Tiles` `CesiumJS`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌐 [Cesium MCP](https://github.com/gaopengbin/cesium-mcp)** — AI-Powered 3D Globe Control via MCP
 
 Control CesiumJS through natural language — camera, entities, layers, animation, and spatial analysis. 59 tools across 12 toolsets, i18n, remote server support.
 
@@ -41,23 +61,6 @@ Control CesiumJS through natural language — camera, entities, layers, animatio
 
 </td>
 </tr>
-<tr>
-<td>
-
-**🤖 [GaiaAgent](https://github.com/gaopengbin/GaiaAgent)** — GIS AI Assistant built on Cesium MCP
-
-Tauri desktop app powered by [cesium-mcp](https://github.com/gaopengbin/cesium-mcp) — multi-provider LLM, MCP client for extensible tools, smart tool filtering, streaming reasoning display, bilingual UI.
-
-基于 cesium-mcp 构建的 GIS AI 桌面助手 — 多 LLM 接入、MCP 客户端扩展工具生态、智能工具筛选、流式思考展示、中英双语界面。
-
-<p>
-  <a href="https://github.com/gaopengbin/GaiaAgent"><img src="https://img.shields.io/github/stars/gaopengbin/GaiaAgent?style=social" alt="stars"></a>
-</p>
-
-`Tauri` `Rust` `React` `TypeScript` `CesiumJS` `MCP`
-
-</td>
-</tr>
 </table>
 
 ---
@@ -68,11 +71,11 @@ Tauri desktop app powered by [cesium-mcp](https://github.com/gaopengbin/cesium-m
 <tr>
 <td width="33%">
 
-**📥 [geo-downloader](https://github.com/gaopengbin/geo-downloader)** — GeoDownloader
+**🤖 [GaiaAgent](https://github.com/gaopengbin/GaiaAgent)** — GIS AI Assistant
 
-地理空间数据下载桌面工具 — GeoTIFF 瓦片 / Google 3D Tiles / Esri Wayback 历史影像，跨平台 (Win/Mac/Linux)
+基于 cesium-mcp 的 GIS AI 桌面助手 — 多 LLM 接入、MCP 客户端、智能工具筛选、流式思考展示
 
-`Rust` `Tauri` `JavaScript` `GeoTIFF` `3D Tiles`
+`Tauri` `Rust` `React` `MCP`
 
 </td>
 <td width="33%">
