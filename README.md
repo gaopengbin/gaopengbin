@@ -1,9 +1,17 @@
-> **正在求职 · 北京 | AI 应用开发 / Agent 应用 / AI 产品全栈**  
-> 我是高鹏彬，有约 6 年软件开发经验，正在寻找把模型、工具和业务做进实际产品的机会。  
-> 项目实践：[GeoD 桌面产品](https://github.com/gaopengbin/geo-downloader) · [cesium-mcp 工具接入](https://github.com/gaopengbin/cesium-mcp) · [GeoStyle Agent 应用（内测中）](https://geostyle.laogao.xyz/)  
-> **[查看完整简历 PDF](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf)** · [邮件联系](mailto:1804287165@qq.com)  
-> 欢迎招聘方、团队负责人或朋友联系、推荐和转发。GIS 是我的业务背景，求职方向不限行业。  
-> **Open to AI application, agent engineering and full-stack roles in Beijing.** [Resume](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf) · [Contact](mailto:1804287165@qq.com)
+> [!IMPORTANT]
+> ## 📣 作者正在求职 · 北京
+>
+> **AI 应用开发 · Agent 应用开发 · AI 产品全栈**
+>
+> 我是高鹏彬，有约 6 年软件开发经验。如果你们团队正在招人，欢迎联系，也感谢帮忙内推或转发！
+>
+> ### [📄 查看简历 PDF](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf)　·　[✉️ 联系我](mailto:1804287165@qq.com)
+>
+> [查看我的项目与个人介绍 →](https://github.com/gaopengbin) · 邮箱：**1804287165@qq.com**
+>
+> 项目实践：[GeoD 桌面产品](https://github.com/gaopengbin/geo-downloader) · [cesium-mcp 工具接入](https://github.com/gaopengbin/cesium-mcp) · [GeoStyle Agent 应用（内测中）](https://geostyle.laogao.xyz/)
+>
+> GIS 是我的业务背景，求职方向不限行业。
 
 <div align="center">
 
