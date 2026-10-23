@@ -131,8 +131,8 @@ def product_badges(product, updated):
     content = ''
     for x, width, label, value in segments:
         content += f'<rect x="{x+.5}" y=".5" width="{width-1}" height="37" rx="9" fill="#111c2d" stroke="#32435a"/>'
-        content += text(x+11, 24, label, 10, '#acbdd3', 600)
-        content += text(x+width-11, 25, f'{value:,}', 16, product['color'], 700, 'text-anchor="end"')
+        content += text(x+11, 24, label, 13, '#acbdd3', 600)
+        content += text(x+width-11, 26, f'{value:,}', 20, product['color'], 700, 'text-anchor="end"')
     return f'<svg xmlns="http://www.w3.org/2000/svg" width="460" height="38" viewBox="0 0 460 38" role="img"><title>{html.escape(title)}</title><g font-family="Segoe UI,Arial,sans-serif">{content}</g></svg>'
 
 
