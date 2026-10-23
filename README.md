@@ -1,7 +1,20 @@
 <img src="./assets/hero.svg" width="100%" alt="Lao Gao · 老高 / 高鹏彬 — 把想法做成真正可用的 AI 产品" />
 
-<p align="center"><b>把 AI 接进真实工作流，把产品做到可以交付。</b><br/><sub>AI applications · Agents · Developer tools · Geospatial</sub></p>
-<p align="center"><a href="#featured-products">看产品</a> &nbsp; / &nbsp; <a href="#more-projects">更多作品</a> &nbsp; / &nbsp; <a href="#open-source">开源贡献</a> &nbsp; / &nbsp; <a href="#contact">联系我</a></p>
+<p align="center"><a href="#numbers">数据仪表板</a> &nbsp; / &nbsp; <a href="#featured-products">产品现场</a> &nbsp; / &nbsp; <a href="#more-projects">更多作品</a> &nbsp; / &nbsp; <a href="#open-source">开源贡献</a> &nbsp; / &nbsp; <a href="#contact">联系我</a></p>
+
+<a id="numbers"></a>
+
+<img src="./assets/metrics.svg" width="100%" alt="GitHub 公开数据仪表板：Stars、Forks、发布资产下载、关注者与六个主推项目表现；更新时间见图" />
+
+<details>
+<summary>数据口径 · 公开可核查，每日自动更新</summary>
+
+- Stars / Forks：`gaopengbin` 自有公开、非 Fork 仓库之和；不是用户数。
+- Downloads：六个主推仓库现存公开 Releases 中安装包和压缩包资产的累计下载计数，包含预发行；不包含源码克隆、npm、网站或 CDN 下载，不代表独立用户或成功安装次数。
+- Followers：GitHub 账号关注者。项目进度条按六个主推仓库的 Stars 相对比例展示，不是增长率。
+- 数据直接来自 GitHub API，更新时间为 UTC；请求失败会保留上一份有效数据，不填假零。快照：[原始统计](./assets/profile-metrics.json) · [更新任务](https://github.com/gaopengbin/gaopengbin/actions/workflows/profile-metrics.yml)。
+
+</details>
 
 <a id="featured-products"></a>
 
@@ -125,6 +138,8 @@
 <a id="open-source"></a>
 
 ## Built in the open · 开源贡献
+
+<img src="./assets/activity.svg" width="100%" alt="最近一年 GitHub 贡献热图，统计区间与贡献数见图；不代表产品使用量" />
 
 持续参与 [Cesium 官方 AI 集成生态](https://github.com/CesiumGS/cesium-ai-integrations)。已合并：
 
