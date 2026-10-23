@@ -1,128 +1,143 @@
-<img src="./assets/hero.svg" width="100%" alt="Pengbin Gao · 老高 — Building useful things with AI. AI applications, agents and developer tools." />
+<img src="./assets/hero.svg" width="100%" alt="Lao Gao · 老高 / 高鹏彬 — 把想法做成真正可用的 AI 产品" />
 
-<p align="center">
-  <b>把 AI 接进真实工作流，让想法变成好用的产品。</b><br/>
-  <sub>AI Agents &nbsp; / &nbsp; MCP &nbsp; / &nbsp; Desktop &amp; Web Apps &nbsp; / &nbsp; Geospatial</sub>
-</p>
-<p align="center">
-  <a href="#featured-products">主推产品</a> &nbsp; · &nbsp;
-  <a href="#more-projects">更多作品</a> &nbsp; · &nbsp;
-  <a href="#open-source">开源贡献</a> &nbsp; · &nbsp;
-  <a href="#contact">联系我</a>
-</p>
+<p align="center"><b>把 AI 接进真实工作流，把产品做到可以交付。</b><br/><sub>AI applications · Agents · Developer tools · Geospatial</sub></p>
+<p align="center"><a href="#featured-products">看产品</a> &nbsp; / &nbsp; <a href="#more-projects">更多作品</a> &nbsp; / &nbsp; <a href="#open-source">开源贡献</a> &nbsp; / &nbsp; <a href="#contact">联系我</a></p>
 
 <a id="featured-products"></a>
 
-## Selected work · 主推产品
+## Selected work · 看得见的产品
+
+实机截图与演示片段。点击图片查看完整演示或高清截图。
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://geod-global.laogao.xyz/"><img src="./assets/geod-global.svg" width="100%" alt="GeoD Global · 遥感与地理数据工作区" /></a>
 
-**遥感与地理数据，一个工作区。**
+### 01 / GeoD Global
 
-按区域检索、预览和下载影像、高程与矢量数据；接入自己的模型，用 Agent 组织任务。
+<a href="https://geod-global.laogao.xyz/index.html#demo"><img src="./assets/geod-global-demo.gif" width="100%" alt="GeoD Global 实机演示：切换 Sentinel-2 影像并查看细节" /></a>
 
-[访问官网 ↗](https://geod-global.laogao.xyz/) &nbsp; · &nbsp; [源码](https://github.com/gaopengbin/geod-global) &nbsp; · &nbsp; [下载](https://geod-global.laogao.xyz/index.html#download)
+**遥感影像与地理数据，一个工作区。**
 
-<sub>Windows · Rust / Tauri · STAC · BYOK Agent</sub>
+按区域检索、预览和下载数据，用自己的模型组织 Agent 任务。
+
+[官网 ↗](https://geod-global.laogao.xyz/) · [源码](https://github.com/gaopengbin/geod-global) · [下载](https://geod-global.laogao.xyz/index.html#download) · [高清截图](./assets/geod-global.jpg)
+
+<sub>实机片段 · Windows · Rust / Tauri · STAC</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://geod.laogao.xyz/agent"><img src="./assets/geod-agent.svg" width="100%" alt="GeoD Agent · 地理数据桌面 Agent" /></a>
+
+### 02 / GeoD Agent
+
+<a href="https://geod.laogao.xyz/agent#demo"><img src="./assets/geod-agent-demo.gif" width="100%" alt="GeoD Agent 实机演示：执行下载，将真实影像成果加载到地图" /></a>
 
 **从一句需求，到本机执行与成果核验。**
 
-独立地理数据 Agent：对话配置图源、下载与处理、二维 / 三维地图，以及 Skill / MCP 扩展。
+对话配置图源、下载与处理；支持二维 / 三维地图、Skill 和 MCP。
 
-[访问官网 ↗](https://geod.laogao.xyz/agent) &nbsp; · &nbsp; [源码](https://github.com/gaopengbin/geod-agent) &nbsp; · &nbsp; [下载](https://github.com/gaopengbin/geod-agent/releases/latest)
+[官网 ↗](https://geod.laogao.xyz/agent) · [源码](https://github.com/gaopengbin/geod-agent) · [下载](https://github.com/gaopengbin/geod-agent/releases/latest) · [高清截图](./assets/geod-agent.jpg)
 
-<sub>Windows · AI Agent · Local Execution · MCP</sub>
+<sub>实机片段 · Windows · Local Execution · MCP</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://geod.laogao.xyz/"><img src="./assets/geod.svg" width="100%" alt="GeoD · 跨平台地理数据下载工具" /></a>
+
+### 03 / GeoD
+
+<a href="./assets/geod.jpg"><img src="./assets/geod.jpg" width="100%" alt="GeoD 真实界面：行政区选区、地图预览和 GeoTIFF 下载配置" /></a>
 
 **跨平台地理数据下载、处理与导出。**
 
-地图影像、GeoTIFF、矢量瓦片、3D Tiles 与历史影像工作流；桌面、CLI、MCP 多种入口。
+地图影像、GeoTIFF、矢量瓦片、3D Tiles 与历史影像，覆盖桌面、CLI 和 MCP。
 
-[访问官网 ↗](https://geod.laogao.xyz/) &nbsp; · &nbsp; [源码](https://github.com/gaopengbin/geo-downloader) &nbsp; · &nbsp; [下载](https://github.com/gaopengbin/geo-downloader/releases/latest)
+[官网 ↗](https://geod.laogao.xyz/) · [源码](https://github.com/gaopengbin/geo-downloader) · [下载](https://github.com/gaopengbin/geo-downloader/releases/latest)
 
-<sub>Windows / macOS / Linux · Rust / Tauri</sub>
+<sub>应用截图 · Windows / macOS / Linux</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://gaopengbin.github.io/cesium-mcp/"><img src="./assets/cesium-mcp.svg" width="100%" alt="Cesium MCP · AI 控制 CesiumJS 三维场景" /></a>
+
+### 04 / Cesium MCP
+
+<a href="./assets/cesium-mcp.jpg"><img src="./assets/cesium-mcp.jpg" width="100%" alt="Cesium MCP 真实场景截图：纽约地图与三维建筑示例" /></a>
 
 **让 AI 操作真实的 CesiumJS 三维场景。**
 
-共享工具契约与独立控制运行时，连接 MCP、WebMCP、function calling 和 Browser Agent。
+共享工具契约与独立控制运行时，连接 MCP、WebMCP 和 Browser Agent。
 
-[阅读文档 ↗](https://gaopengbin.github.io/cesium-mcp/) &nbsp; · &nbsp; [源码](https://github.com/gaopengbin/cesium-mcp) &nbsp; · &nbsp; [npm](https://www.npmjs.com/package/cesium-mcp-runtime)
+[文档 ↗](https://gaopengbin.github.io/cesium-mcp/) · [源码](https://github.com/gaopengbin/cesium-mcp) · [npm](https://www.npmjs.com/package/cesium-mcp-runtime)
 
-<sub>TypeScript · CesiumJS · MCP · WebMCP</sub>
+<sub>示例场景截图 · TypeScript · CesiumJS</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://chat.laogao.xyz/"><img src="./assets/wechat-toolbox.svg" width="100%" alt="微信创作工具箱 · 在线制作与批量导出" /></a>
 
-**微信创作工具箱：在线制作，批量导出。**
+### 05 / 微信创作工具箱
 
-聊天、朋友圈、转账与红包等模拟图，支持长图和批量 ZIP。免登录编辑预览，导出需登录。
+<a href="./assets/wechat-toolbox.jpg"><img src="./assets/wechat-toolbox.jpg" width="100%" alt="微信创作工具箱线上实拍：示例聊天编辑与实时手机预览" /></a>
 
-[立即使用 ↗](https://chat.laogao.xyz/) &nbsp; · &nbsp; [源码](https://github.com/gaopengbin/wechat-dialog-generator)
+**在线制作微信模拟图，支持批量导出。**
 
-<sub>React · TypeScript · Web App · Batch Export</sub>
+聊天、朋友圈、转账与红包等场景。免登录编辑预览，导出需登录。
+
+[立即使用 ↗](https://chat.laogao.xyz/) · [源码](https://github.com/gaopengbin/wechat-dialog-generator)
+
+<sub>线上实拍 · 示例对话 · 长图 / 批量 ZIP</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/gaopengbin/codex-launch-deck"><img src="./assets/codex-launch-deck.svg" width="100%" alt="Codex Launch Deck · Windows 启动与代理工具" /></a>
+
+### 06 / Codex Launch Deck
+
+<a href="./assets/launch-deck.jpg"><img src="./assets/launch-deck.jpg" width="100%" alt="Launch Deck 便携版真实窗口：ChatGPT / Codex 应用级代理启动与浏览器诊断" /></a>
 
 **让 Windows 上的 Codex 启动更顺手。**
 
-便携版提供应用级代理启动、增强代理与运行诊断，不修改系统代理。主题能力见 CodeDrobe。
+便携版提供应用级代理启动、增强代理与运行诊断，不修改系统代理。
 
-[查看项目 ↗](https://github.com/gaopengbin/codex-launch-deck) &nbsp; · &nbsp; [下载安装](https://github.com/gaopengbin/codex-launch-deck/releases/latest)
+[查看项目 ↗](https://github.com/gaopengbin/codex-launch-deck) · [下载安装](https://github.com/gaopengbin/codex-launch-deck/releases/latest)
 
-<sub>Windows · App-scoped Proxy · Diagnostics</sub>
+<sub>便携版窗口实拍 · Windows · App-scoped Proxy</sub>
 </td>
 </tr>
 </table>
 
-<sub>地理数据产品需使用具备访问与使用权限的数据源；各产品的版本与支持范围以对应文档为准。</sub>
+<sub>画面来自公开产品演示与实际应用；版本界面可能有差异。地理数据需具备相应访问与使用权限。</sub>
 
 <a id="more-projects"></a>
 
-## Also building · 更多作品
+<details>
+<summary><b>More projects · 更多作品与探索</b></summary>
 
-| 产品 | 用途 | 探索 |
+<br/>
+
+| 产品 | 用途 | 入口 |
 | :--- | :--- | :--- |
-| **CodeDrobe** | AI 桌面应用的可逆主题运行时与主题商店 | [官网 ↗](https://codedrobe.app/) · [源码](https://github.com/CodeDrobe/core) |
-| **GeoStyle** `内测` | 参考图与文字驱动的 AI 制图、可编辑样式 | [作品 ↗](https://geostyle.laogao.xyz/) · [展示仓库](https://github.com/gaopengbin/geostyle-showcase) |
-| **微信同传** | 本地优先写作、Markdown 排版与公众号草稿同步 | [WeChat Writer ↗](https://github.com/gaopengbin/wechat-writer) |
-| **GaiaAgent** | LLM + CesiumJS 三维空间智能桌面工作台 | [源码 ↗](https://github.com/gaopengbin/GaiaAgent) |
-| **Spatial MCP Toolkit** | 面向不同地图引擎的 AI 控制工具 | [Mapbox](https://github.com/gaopengbin/mapbox-mcp) · [OpenLayers](https://github.com/gaopengbin/openlayers-mcp) · [Leaflet](https://github.com/gaopengbin/leaflet-mcp) |
-| **OpenStyle** `实验` | 结构化地图样式、编译与 AI 制图工具链 | [源码 ↗](https://github.com/gaopengbin/openstyle) |
+| **CodeDrobe** | AI 桌面应用可逆主题与主题商店，兼容性以应用和版本为准 | [官网](https://codedrobe.app/) · [源码](https://github.com/CodeDrobe/core) |
+| **GeoStyle** `内测` | 参考图与文字驱动的 AI 制图、可编辑样式 | [作品](https://geostyle.laogao.xyz/) · [展示仓库](https://github.com/gaopengbin/geostyle-showcase) |
+| **微信同传** | 本地写作、Markdown 排版与公众号草稿同步；不自动发布 | [WeChat Writer](https://github.com/gaopengbin/wechat-writer) |
+| **GaiaAgent** | LLM + CesiumJS 三维空间智能工作台 | [源码](https://github.com/gaopengbin/GaiaAgent) |
+| **Spatial MCP Toolkit** | 不同地图引擎的 AI 控制工具 | [Mapbox](https://github.com/gaopengbin/mapbox-mcp) · [OpenLayers](https://github.com/gaopengbin/openlayers-mcp) · [Leaflet](https://github.com/gaopengbin/leaflet-mcp) |
+| **OpenStyle** `实验` | 结构化地图样式、编译与 AI 制图工具链 | [源码](https://github.com/gaopengbin/openstyle) |
 
-<sub>CodeDrobe 兼容性以应用和版本为准；微信同传只同步草稿，不自动发布文章。</sub>
+</details>
 
 <a id="open-source"></a>
 
 ## Built in the open · 开源贡献
 
-持续参与 [Cesium 官方 AI 集成生态](https://github.com/CesiumGS/cesium-ai-integrations)。已合并的贡献：
+持续参与 [Cesium 官方 AI 集成生态](https://github.com/CesiumGS/cesium-ai-integrations)。已合并：
 
-**[社区集成 #21](https://github.com/CesiumGS/cesium-ai-integrations/pull/21)** &nbsp; / &nbsp; **[影像服务 #22](https://github.com/CesiumGS/cesium-ai-integrations/pull/22)** &nbsp; / &nbsp; **[地形服务 #30](https://github.com/CesiumGS/cesium-ai-integrations/pull/30)** &nbsp; / &nbsp; **[统一 MCP 网关 #39](https://github.com/CesiumGS/cesium-ai-integrations/pull/39)**
+[社区集成 #21](https://github.com/CesiumGS/cesium-ai-integrations/pull/21) &nbsp; / &nbsp; [影像服务 #22](https://github.com/CesiumGS/cesium-ai-integrations/pull/22) &nbsp; / &nbsp; [地形服务 #30](https://github.com/CesiumGS/cesium-ai-integrations/pull/30) &nbsp; / &nbsp; [统一 MCP 网关 #39](https://github.com/CesiumGS/cesium-ai-integrations/pull/39)
 
 <a id="contact"></a>
 
-## Let's build · 关于与联系
+## Let's build · 认识一下
 
 我是 **老高 / 高鹏彬**，在北京，约 6 年软件开发经验。关注 **AI 应用、Agent、开发者工具与产品工程**，也把地理空间领域的经验带进真实产品。
 
 `TypeScript` `React` `Vue` `Node.js` `Rust` `Tauri` `Python`
 
-欢迎交流产品反馈、开源协作，以及 AI 应用 / Agent / 全栈开发机会。
+欢迎产品反馈、开源协作，以及 AI 应用 / Agent / 全栈开发机会。
 
-[邮件联系](mailto:1804287165@qq.com) &nbsp; · &nbsp; [简历 PDF](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf) &nbsp; · &nbsp; 公众号 **老高 Vibe Coding** &nbsp; · &nbsp; 微信 `laogaovibecoding`
+[邮件联系](mailto:1804287165@qq.com) · [简历 PDF](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf) · 公众号 **老高 Vibe Coding** · 微信 `laogaovibecoding`

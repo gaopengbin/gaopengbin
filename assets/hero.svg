@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Pengbin Gao — Building useful things with AI.</title><desc id="desc">AI applications, agents and developer tools. Designed, built and shipped by Lao Gao.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f0fdfa"/><stop offset="1" stop-color="#eef2ff"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0f766e" stroke-opacity=".055"/></pattern></defs>
-<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
-<g font-family="Inter,Segoe UI,Arial,sans-serif"><circle cx="53" cy="48" r="5" fill="#0d9488"/><text x="70" y="53" font-size="14" font-weight="700" letter-spacing="2" fill="#0f766e">LAO GAO / INDEPENDENT BUILDER</text>
-<text x="48" y="124" font-size="49" font-weight="750" letter-spacing="-2" fill="#122c30">Building useful things</text><text x="48" y="182" font-size="49" font-weight="750" letter-spacing="-2" fill="#0f766e">with AI.</text>
-<text x="50" y="226" font-size="19" fill="#4b676a">Pengbin Gao · AI applications, agents &amp; developer tools</text>
-<text x="50" y="278" font-size="13" letter-spacing="2" fill="#526d70">DESIGN → BUILD → SHIP → IMPROVE</text>
-<g transform="translate(858 160)" fill="none" stroke="#69ada9"><circle r="100" opacity=".3"/><circle r="73" opacity=".4"/><ellipse rx="37" ry="73" opacity=".6"/><path d="M-73 0H73M-65-33H65M-65 33H65" opacity=".5"/><path d="M-111-54L100 72M-111 70L101-75" stroke-dasharray="4 7" opacity=".35"/></g>
-<g fill="#fff" stroke="#c7dfdc"><rect x="735" y="44" width="126" height="47" rx="12"/><rect x="935" y="106" width="160" height="47" rx="12"/><rect x="810" y="239" width="148" height="47" rx="12"/></g>
-<g font-size="15" font-weight="650" fill="#215d59"><text x="760" y="74">AI Agents</text><text x="961" y="136">Open Source</text><text x="835" y="269">Real Products</text></g><circle cx="928" cy="218" r="8" fill="#0d9488"/><circle cx="773" cy="160" r="5" fill="#818cf8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Lao Gao · 高鹏彬 — Ideas into working products.</title><desc id="desc">Independent builder of AI applications, agents and developer tools.</desc>
+<defs><linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#e8f6f1"/><stop offset=".55" stop-color="#f4faf8"/><stop offset="1" stop-color="#e8effc"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#167568" opacity=".09"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/><rect width="1200" height="300" rx="20" fill="url(#dots)"/>
+<g font-family="Segoe UI,Arial,Microsoft YaHei,sans-serif"><circle cx="47" cy="42" r="5" fill="#17856d"/><text x="63" y="47" font-size="13" letter-spacing="2.2" fill="#1c7765" font-weight="700">INDEPENDENT BUILDER / OPEN SOURCE</text>
+<text x="42" y="124" font-size="65" letter-spacing="-2" fill="#143a35" font-weight="750">Lao Gao<tspan font-size="29" dx="18" letter-spacing="1" font-weight="500">老高 · 高鹏彬</tspan></text>
+<text x="45" y="173" font-size="27" fill="#296b60" font-weight="500">Ideas into working products.</text>
+<text x="45" y="215" font-size="18" fill="#4c6e67">AI 应用 / Agent / 开发者工具 / 地理空间</text>
+<text x="45" y="267" font-size="12" letter-spacing="2" fill="#54746c">DESIGN WITH INTENT. BUILD FOR REAL USE.</text>
+<g transform="translate(834 52)"><rect x="28" y="22" width="260" height="182" rx="14" fill="#d9e7ee" transform="rotate(8 158 113)"/><rect x="12" y="10" width="260" height="182" rx="14" fill="#cce6de" transform="rotate(-6 142 101)"/><rect width="260" height="182" rx="14" fill="#fff" stroke="#bad9d0"/><path d="M0 31H260" stroke="#d9e8e2"/><g fill="#a7c9bc"><circle cx="18" cy="16" r="3"/><circle cx="30" cy="16" r="3"/><circle cx="42" cy="16" r="3"/></g><text x="22" y="69" font-size="13" letter-spacing="2" fill="#528b7b">FROM IDEA</text><path d="M24 99H231" stroke="#cce4da" stroke-width="2"/><circle cx="32" cy="99" r="7" fill="#137d63"/><circle cx="128" cy="99" r="7" fill="#65a694"/><circle cx="223" cy="99" r="7" fill="#a3c8b9"/><text x="22" y="148" font-size="26" font-weight="700" fill="#155c4c">TO SOMETHING REAL.</text></g>
 </g></svg>
