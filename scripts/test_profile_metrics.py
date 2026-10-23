@@ -41,7 +41,12 @@ class ProfileMetricsTests(unittest.TestCase):
             root = ET.fromstring(svg)
             self.assertEqual(root.attrib['width'], '460')
             self.assertIn(f'{p["stars"]} Stars, {p["forks"]} Forks, {p["downloads"]} GitHub', svg)
-            self.assertIn(f'assets/product-stats/{p["name"]}.svg', readme)
+            self.assertIn(f'img.shields.io/github/stars/gaopengbin/{p["name"]}?', readme)
+            self.assertIn(f'img.shields.io/github/forks/gaopengbin/{p["name"]}?', readme)
+            if p['name'] == 'wechat-dialog-generator':
+                self.assertIn('img.shields.io/badge/Web-Open%20App-brightgreen', readme)
+            else:
+                self.assertIn(f'img.shields.io/github/downloads/gaopengbin/{p["name"]}/total?', readme)
 
     def test_failed_api_preserves_previous_files(self):
         paths = [metrics.ROOT/'assets'/name for name in ('metrics.svg', 'activity.svg', 'profile-metrics.json')]

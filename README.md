@@ -22,7 +22,7 @@
 
 实机截图与演示片段。点击图片查看完整演示或高清截图。
 
-<sub>每张卡片显示对应仓库的 Stars / Forks / GitHub DL；DL 仅指 GitHub 发布资产下载，0 不代表无人使用。每日更新，详细口径见上方。</sub>
+<sub>标准徽章来自 Shields.io：Stars / Forks / Downloads。徽章下载量统计全部 GitHub Release 资产（含校验文件），总览只统计安装包与压缩包；不同缓存更新时间可能略有差异，均不代表用户数。</sub>
 
 <table>
 <tr>
@@ -30,7 +30,9 @@
 
 ### 01 / GeoD Global
 
-<a href="https://github.com/gaopengbin/geod-global"><img src="./assets/product-stats/geod-global.svg" width="100%" alt="GeoD Global 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+<a href="https://github.com/gaopengbin/geod-global/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/gaopengbin/geod-global?style=flat&amp;logo=github&amp;label=Stars&amp;color=yellow" /></a>
+<a href="https://github.com/gaopengbin/geod-global/forks"><img alt="Forks" src="https://img.shields.io/github/forks/gaopengbin/geod-global?style=flat&amp;logo=github&amp;label=Forks&amp;color=blue" /></a>
+<a href="https://github.com/gaopengbin/geod-global/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gaopengbin/geod-global/total?style=flat&amp;label=Downloads&amp;color=brightgreen" /></a>
 
 <a href="https://geod-global.laogao.xyz/index.html#demo"><img src="./assets/geod-global-demo.gif" width="100%" alt="GeoD Global 实机演示：切换 Sentinel-2 影像并查看细节" /></a>
 
@@ -46,7 +48,9 @@
 
 ### 02 / GeoD Agent
 
-<a href="https://github.com/gaopengbin/geod-agent"><img src="./assets/product-stats/geod-agent.svg" width="100%" alt="GeoD Agent 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+<a href="https://github.com/gaopengbin/geod-agent/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/gaopengbin/geod-agent?style=flat&amp;logo=github&amp;label=Stars&amp;color=yellow" /></a>
+<a href="https://github.com/gaopengbin/geod-agent/forks"><img alt="Forks" src="https://img.shields.io/github/forks/gaopengbin/geod-agent?style=flat&amp;logo=github&amp;label=Forks&amp;color=blue" /></a>
+<a href="https://github.com/gaopengbin/geod-agent/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gaopengbin/geod-agent/total?style=flat&amp;label=Downloads&amp;color=brightgreen" /></a>
 
 <a href="https://geod.laogao.xyz/agent#demo"><img src="./assets/geod-agent-demo.gif" width="100%" alt="GeoD Agent 实机演示：执行下载，将真实影像成果加载到地图" /></a>
 
@@ -64,7 +68,9 @@
 
 ### 03 / GeoD
 
-<a href="https://github.com/gaopengbin/geo-downloader"><img src="./assets/product-stats/geo-downloader.svg" width="100%" alt="GeoD 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+<a href="https://github.com/gaopengbin/geo-downloader/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/gaopengbin/geo-downloader?style=flat&amp;logo=github&amp;label=Stars&amp;color=yellow" /></a>
+<a href="https://github.com/gaopengbin/geo-downloader/forks"><img alt="Forks" src="https://img.shields.io/github/forks/gaopengbin/geo-downloader?style=flat&amp;logo=github&amp;label=Forks&amp;color=blue" /></a>
+<a href="https://github.com/gaopengbin/geo-downloader/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gaopengbin/geo-downloader/total?style=flat&amp;label=Downloads&amp;color=brightgreen" /></a>
 
 <a href="./assets/geod.jpg"><img src="./assets/geod.jpg" width="100%" alt="GeoD 真实界面：行政区选区、地图预览和 GeoTIFF 下载配置" /></a>
 
@@ -80,7 +86,9 @@
 
 ### 04 / Cesium MCP
 
-<a href="https://github.com/gaopengbin/cesium-mcp"><img src="./assets/product-stats/cesium-mcp.svg" width="100%" alt="Cesium MCP 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+<a href="https://github.com/gaopengbin/cesium-mcp/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/gaopengbin/cesium-mcp?style=flat&amp;logo=github&amp;label=Stars&amp;color=yellow" /></a>
+<a href="https://github.com/gaopengbin/cesium-mcp/forks"><img alt="Forks" src="https://img.shields.io/github/forks/gaopengbin/cesium-mcp?style=flat&amp;logo=github&amp;label=Forks&amp;color=blue" /></a>
+<a href="https://github.com/gaopengbin/cesium-mcp/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gaopengbin/cesium-mcp/total?style=flat&amp;label=Downloads&amp;color=brightgreen" /></a>
 
 <a href="./assets/cesium-mcp.jpg"><img src="./assets/cesium-mcp.jpg" width="100%" alt="Cesium MCP 真实场景截图：纽约地图与三维建筑示例" /></a>
 
@@ -98,7 +106,9 @@
 
 ### 05 / 微信创作工具箱
 
-<a href="https://github.com/gaopengbin/wechat-dialog-generator"><img src="./assets/product-stats/wechat-dialog-generator.svg" width="100%" alt="微信创作工具箱的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+<a href="https://github.com/gaopengbin/wechat-dialog-generator/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/gaopengbin/wechat-dialog-generator?style=flat&amp;logo=github&amp;label=Stars&amp;color=yellow" /></a>
+<a href="https://github.com/gaopengbin/wechat-dialog-generator/forks"><img alt="Forks" src="https://img.shields.io/github/forks/gaopengbin/wechat-dialog-generator?style=flat&amp;logo=github&amp;label=Forks&amp;color=blue" /></a>
+<a href="https://chat.laogao.xyz/"><img alt="在线使用" src="https://img.shields.io/badge/Web-Open%20App-brightgreen?style=flat" /></a>
 
 <a href="./assets/wechat-toolbox.jpg"><img src="./assets/wechat-toolbox.jpg" width="100%" alt="微信创作工具箱线上实拍：示例聊天编辑与实时手机预览" /></a>
 
@@ -114,7 +124,9 @@
 
 ### 06 / Codex Launch Deck
 
-<a href="https://github.com/gaopengbin/codex-launch-deck"><img src="./assets/product-stats/codex-launch-deck.svg" width="100%" alt="Codex Launch Deck 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+<a href="https://github.com/gaopengbin/codex-launch-deck/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/gaopengbin/codex-launch-deck?style=flat&amp;logo=github&amp;label=Stars&amp;color=yellow" /></a>
+<a href="https://github.com/gaopengbin/codex-launch-deck/forks"><img alt="Forks" src="https://img.shields.io/github/forks/gaopengbin/codex-launch-deck?style=flat&amp;logo=github&amp;label=Forks&amp;color=blue" /></a>
+<a href="https://github.com/gaopengbin/codex-launch-deck/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gaopengbin/codex-launch-deck/total?style=flat&amp;label=Downloads&amp;color=brightgreen" /></a>
 
 <a href="./assets/launch-deck.jpg"><img src="./assets/launch-deck.jpg" width="100%" alt="Launch Deck 便携版真实窗口：ChatGPT / Codex 应用级代理启动与浏览器诊断" /></a>
 
