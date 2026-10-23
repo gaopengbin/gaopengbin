@@ -1,194 +1,158 @@
-> [!IMPORTANT]
-> ## 📣 作者正在求职 · 北京
->
-> **AI 应用开发 · Agent 应用开发 · AI 产品全栈**
->
-> 我是高鹏彬，有约 6 年软件开发经验。如果你们团队正在招人，欢迎联系，也感谢帮忙内推或转发！
->
-> ### [📄 查看简历 PDF](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf)　·　[✉️ 联系我](mailto:1804287165@qq.com)
->
-> [查看我的项目与个人介绍 →](https://github.com/gaopengbin) · 邮箱：**1804287165@qq.com**
->
-> 项目实践：[GeoD 桌面产品](https://github.com/gaopengbin/geo-downloader) · [cesium-mcp 工具接入](https://github.com/gaopengbin/cesium-mcp) · [GeoStyle Agent 应用（内测中）](https://geostyle.laogao.xyz/)
->
-> GIS 是我的业务背景，求职方向不限行业。
-
 <div align="center">
 
 # Pengbin Gao · 高鹏彬
 
-### AI Application & Agent Developer
-### AI 应用与 Agent 开发者
+### AI applications, agents & tools that get things done.
 
-I build practical AI agents, developer tools, and open-source products.  
-专注于 AI Agent、开发者工具与开源产品。
+把 AI 接进真实工作流，做能使用、能交付、持续迭代的产品。
 
-Complex frontend systems · Desktop applications · Spatial computing  
-复杂前端系统 · 桌面应用 · 空间计算
+`AI Agents` · `MCP` · `Desktop Apps` · `Full-Stack` · `Geospatial`
 
-[Projects / 项目](#ai-projects--ai-项目) ·
-[Contributions / 开源贡献](#open-source-contributions--开源贡献) ·
-[About / 关于我](#about--关于我) ·
-[Email](mailto:1804287165@qq.com)
+[主推产品](#featured-products) · [更多项目](#more-projects) · [开源贡献](#open-source) · [联系我](#contact)
 
 </div>
 
----
+<a id="featured-products"></a>
 
-## AI Projects / AI 项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Cesium MCP](https://github.com/gaopengbin/cesium-mcp)
-
-An MCP server that lets AI agents operate CesiumJS through natural language.
-
-让 AI Agent 通过自然语言操作 CesiumJS，覆盖场景控制、数据可视化、动画与空间操作。
-
-[![Stars](https://img.shields.io/github/stars/gaopengbin/cesium-mcp?style=flat&label=Stars)](https://github.com/gaopengbin/cesium-mcp)
-[![npm](https://img.shields.io/npm/v/cesium-mcp-runtime?label=Runtime)](https://www.npmjs.com/package/cesium-mcp-runtime)
-
-`TypeScript` `MCP` `CesiumJS` `WebSocket`
-
-</td>
-<td width="50%" valign="top">
-
-### [GaiaAgent](https://github.com/gaopengbin/GaiaAgent)
-
-A desktop AI agent with multi-model access, dynamic tool selection, and streaming responses.
-
-桌面端 AI Agent，支持多模型接入、动态工具筛选、流式响应与 Cesium 场景交互。
-
-<br>
-
-`Tauri` `Rust` `React` `TypeScript` `MCP`
-
-</td>
-</tr>
-</table>
-
-## Spatial MCP Toolkit / 空间 MCP 工具集
+## Featured products / 主推产品
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Mapbox MCP](https://github.com/gaopengbin/mapbox-mcp)
+### GeoD Global
 
-Structured MCP tools for controlling Mapbox GL JS through AI.
+**遥感影像与地理空间数据，一个工作区。**
 
-让 AI 以结构化工具操作 Mapbox GL JS。
+按区域检索、预览和下载卫星影像、高程、专题与矢量数据；支持接入自己的模型，用 Agent 组织检索与下载任务。
 
-`TypeScript` `MCP` `Mapbox GL JS`
+Imagery, terrain and geospatial data discovery — with a BYOK Agent.
 
-</td>
-<td width="50%" valign="top">
+[官网 / Website](https://geod-global.laogao.xyz/) · [源码](https://github.com/gaopengbin/geod-global) · [下载](https://geod-global.laogao.xyz/index.html#download)
 
-### [OpenLayers MCP](https://github.com/gaopengbin/openlayers-mcp)
-
-Structured MCP tools for controlling OpenLayers through AI.
-
-让 AI 以结构化工具操作 OpenLayers。
-
-`TypeScript` `MCP` `OpenLayers`
-
-</td>
-</tr>
-</table>
-
-> A toolkit for giving AI agents a reliable way to understand and operate interactive applications.  
-> 让 AI Agent 以可靠、结构化的方式理解并操作交互式应用。
-
-## Product Engineering / 产品工程
-
-<table>
-<tr>
-<td valign="top">
-
-### [GeoDownloader](https://github.com/gaopengbin/geo-downloader)
-
-A cross-platform desktop product for downloading and exporting imagery, vector tiles, 3D Tiles, terrain, and historical imagery.
-
-跨平台地理空间数据下载与导出产品，支持影像、矢量瓦片、3D Tiles、地形与历史影像等数据。
-
-[![Stars](https://img.shields.io/github/stars/gaopengbin/geo-downloader?style=flat&label=Stars)](https://github.com/gaopengbin/geo-downloader)
-[![Downloads](https://img.shields.io/github/downloads/gaopengbin/geo-downloader/total?label=Downloads)](https://github.com/gaopengbin/geo-downloader/releases)
-[![Release](https://img.shields.io/github/v/release/gaopengbin/geo-downloader?label=Release)](https://github.com/gaopengbin/geo-downloader/releases/latest)
-
-`Rust` `Tauri` `React` `TypeScript` `GeoTIFF` `3D Tiles`
-
-Turns complex technical requirements into a complete, distributable product.  
-将复杂技术需求落地为完整、可交付的产品。
-
-</td>
-</tr>
-</table>
-
-## Open-source Contributions / 开源贡献
-
-<table>
-<tr>
-<td valign="top">
-
-### [Cesium AI Ecosystem](https://github.com/CesiumGS/cesium-ai-integrations)
-
-Bringing practical MCP experience into Cesium's official open-source ecosystem.  
-将实际 MCP 项目经验贡献到 Cesium 官方开源生态。
-
-- [Imagery MCP server](https://github.com/CesiumGS/cesium-ai-integrations/pull/22) — imagery layer management / 影像图层管理
-- [Terrain MCP server](https://github.com/CesiumGS/cesium-ai-integrations/pull/30) — terrain provider operations / 地形服务操作
-- [Unified MCP gateway](https://github.com/CesiumGS/cesium-ai-integrations/pull/39) — dynamic domain and tool management / 动态领域与工具管理
-- [Community integration](https://github.com/CesiumGS/cesium-ai-integrations/pull/21) — connected Cesium MCP with the official ecosystem / 将社区项目接入官方生态
-
-Also exploring contributions to [CesiumJS Skills](https://github.com/CesiumGS/cesiumjs-skills) and [CesiumJS AI Starter App](https://github.com/CesiumGS/cesiumjs-ai-starter-app).  
-同时持续关注并探索参与 CesiumJS Skills 与 CesiumJS AI Starter App。
-
-</td>
-</tr>
-</table>
-
-## About / 关于我
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Engineering Background / 工程背景
-
-Six years of experience across frontend architecture, reusable component systems, desktop applications, and CesiumJS platforms.
-
-6 年软件开发经验，涵盖前端架构、组件体系、桌面应用与 CesiumJS 平台。
-
-`TypeScript` · `React` · `Vue` · `Node.js`  
-`Rust` · `Tauri` · `Python` · `MCP`
+`Windows` `Rust` `Tauri` `STAC` `AI Agent`
 
 </td>
 <td width="50%" valign="top">
 
-### Current Focus / 当前方向
+### GeoD Agent
 
-- AI agents and application engineering  
-  AI Agent 与应用工程
-- MCP servers, clients, and tool orchestration  
-  MCP 服务、客户端与工具编排
-- AI developer tools and open-source products  
-  AI 开发者工具与开源产品
+**用对话配置图源、组织任务，交给本机执行。**
+
+独立的地理数据桌面 Agent：AI 对话、本机下载与处理、二维 / 三维地图，以及 Skill / MCP 扩展。
+
+A desktop geospatial agent for conversations, local execution and verified results.
+
+[官网 / Website](https://geod.laogao.xyz/agent) · [源码](https://github.com/gaopengbin/geod-agent) · [下载](https://github.com/gaopengbin/geod-agent/releases/latest)
+
+`Windows` `AI Agent` `Skills` `MCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### GeoD
+
+**跨平台地理数据下载、处理与导出。**
+
+面向地图影像、GeoTIFF、矢量瓦片、3D Tiles 与历史影像等工作流；提供桌面应用及配套 CLI / MCP 入口。数据源需具备相应访问与使用权限。
+
+A cross-platform geospatial downloader, with desktop, CLI and MCP interfaces.
+
+[官网 / Website](https://geod.laogao.xyz/) · [源码](https://github.com/gaopengbin/geo-downloader) · [下载](https://github.com/gaopengbin/geo-downloader/releases/latest)
+
+[![Release](https://img.shields.io/github/v/release/gaopengbin/geo-downloader?label=Release&style=flat-square)](https://github.com/gaopengbin/geo-downloader/releases/latest)
+
+`Windows / macOS / Linux` `Rust` `Tauri` `GeoTIFF`
+
+</td>
+<td width="50%" valign="top">
+
+### Cesium MCP
+
+**让 AI 操作真实的 CesiumJS 三维场景。**
+
+独立的 AI 控制运行时与共享工具契约，连接 MCP、WebMCP、function calling 和 Browser Agent，不限于单一聊天客户端。
+
+A protocol-agnostic AI control runtime for CesiumJS.
+
+[文档 / Docs](https://gaopengbin.github.io/cesium-mcp/) · [源码](https://github.com/gaopengbin/cesium-mcp) · [npm](https://www.npmjs.com/package/cesium-mcp-runtime)
+
+[![Stars](https://img.shields.io/github/stars/gaopengbin/cesium-mcp?label=Stars&style=flat-square)](https://github.com/gaopengbin/cesium-mcp)
+
+`TypeScript` `CesiumJS` `MCP` `WebMCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 微信创作工具箱
+
+**聊天、朋友圈与微信页面模拟，一站式制作。**
+
+在线编辑聊天与批量聊天、朋友圈、转账、红包等模拟图，支持普通截图、长图和批量 ZIP 导出。免登录编辑预览，导出需登录。
+
+A browser-based toolkit for illustrative WeChat-style mockups and batch exports.
+
+[在线使用 / Try it](https://chat.laogao.xyz/) · [源码](https://github.com/gaopengbin/wechat-dialog-generator)
+
+`React` `TypeScript` `Batch Export` `Web App`
+
+</td>
+<td width="50%" valign="top">
+
+### Codex Launch Deck
+
+**Windows 上的 Codex 启动与应用级代理工具。**
+
+当前便携版提供代理启动、增强代理与运行诊断，不修改 Windows 系统代理；主题相关能力见下方 CodeDrobe 与项目版本说明。
+
+A Windows launcher for Codex, with app-scoped proxy support and diagnostics.
+
+[项目 / Repository](https://github.com/gaopengbin/codex-launch-deck) · [下载](https://github.com/gaopengbin/codex-launch-deck/releases/latest)
+
+`Windows` `Desktop Tool` `Codex`
 
 </td>
 </tr>
 </table>
 
----
+<a id="more-projects"></a>
 
-<div align="center">
+## More projects / 更多项目与探索
 
-### Let's Connect / 联系我
+| 项目 | 方向 | 入口 |
+| :--- | :--- | :--- |
+| **CodeDrobe** | AI 桌面应用的可逆主题运行时、主题商店与验证恢复；兼容范围以对应应用和版本为准 | [官网](https://codedrobe.app/) · [源码](https://github.com/CodeDrobe/core) |
+| **GeoStyle** | 参考图与文字驱动的 AI 制图、可编辑样式与真实地图作品；**内测中** | [产品与作品](https://geostyle.laogao.xyz/) · [公开展示仓库](https://github.com/gaopengbin/geostyle-showcase) |
+| **微信同传 / WeChat Writer** | 本地优先公众号写作、Markdown 排版、素材与草稿同步；**只创建草稿，不自动发布** | [源码与使用说明](https://github.com/gaopengbin/wechat-writer) |
+| **GaiaAgent** | LLM + CesiumJS 的三维空间智能桌面工作台 | [源码](https://github.com/gaopengbin/GaiaAgent) |
+| **Spatial MCP Toolkit** | Mapbox、OpenLayers 与 Leaflet 的 AI 地图控制工具 | [Mapbox](https://github.com/gaopengbin/mapbox-mcp) · [OpenLayers](https://github.com/gaopengbin/openlayers-mcp) · [Leaflet](https://github.com/gaopengbin/leaflet-mcp) |
+| **OpenStyle** | 结构化地图样式、编译与 AI 制图工具链；实验性项目 | [源码](https://github.com/gaopengbin/openstyle) |
 
-Beijing, China · [1804287165@qq.com](mailto:1804287165@qq.com)
+<a id="open-source"></a>
 
-Open to AI application and Agent engineering opportunities, open-source collaboration, and product ideas.  
-关注 AI 应用与 Agent 开发机会，也欢迎交流开源协作与产品想法。
+## Open-source contributions / 开源贡献
 
-</div>
+在 [Cesium 官方 AI 集成生态](https://github.com/CesiumGS/cesium-ai-integrations)中，以下贡献已合并：
+
+- [Community integration · #21](https://github.com/CesiumGS/cesium-ai-integrations/pull/21)：将 Cesium MCP 纳入社区集成目录。
+- [Imagery server · #22](https://github.com/CesiumGS/cesium-ai-integrations/pull/22)：影像图层管理工具。
+- [Terrain server · #30](https://github.com/CesiumGS/cesium-ai-integrations/pull/30)：地形服务操作。
+- [Unified MCP gateway · #39](https://github.com/CesiumGS/cesium-ai-integrations/pull/39)：统一网关、领域与工具管理。
+
+<a id="contact"></a>
+
+## About & contact / 关于与联系
+
+我是老高，约 6 年软件开发经验，关注 **AI 应用、Agent、开发者工具与产品工程**。GIS 是我的业务背景，不是应用方向的边界。
+
+`TypeScript` · `React` · `Vue` · `Node.js` · `Rust` · `Tauri` · `Python`
+
+欢迎交流产品反馈、开源协作，以及 AI 应用 / Agent / 全栈开发机会。
+
+**Beijing, China** · [1804287165@qq.com](mailto:1804287165@qq.com) · [简历 PDF](https://laogao.xyz/platform-api/public/resume/gaopengbin-ai-20260906.pdf)
+
+公众号：**老高 Vibe Coding** · 微信号：`laogaovibecoding`
