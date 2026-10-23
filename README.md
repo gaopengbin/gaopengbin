@@ -22,11 +22,15 @@
 
 实机截图与演示片段。点击图片查看完整演示或高清截图。
 
+<sub>每张卡片显示对应仓库的 Stars / Forks / GitHub DL；DL 仅指 GitHub 发布资产下载，0 不代表无人使用。每日更新，详细口径见上方。</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 01 / GeoD Global
+
+<a href="https://github.com/gaopengbin/geod-global"><img src="./assets/product-stats/geod-global.svg" width="100%" alt="GeoD Global 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
 
 <a href="https://geod-global.laogao.xyz/index.html#demo"><img src="./assets/geod-global-demo.gif" width="100%" alt="GeoD Global 实机演示：切换 Sentinel-2 影像并查看细节" /></a>
 
@@ -41,6 +45,8 @@
 <td width="50%" valign="top">
 
 ### 02 / GeoD Agent
+
+<a href="https://github.com/gaopengbin/geod-agent"><img src="./assets/product-stats/geod-agent.svg" width="100%" alt="GeoD Agent 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
 
 <a href="https://geod.laogao.xyz/agent#demo"><img src="./assets/geod-agent-demo.gif" width="100%" alt="GeoD Agent 实机演示：执行下载，将真实影像成果加载到地图" /></a>
 
@@ -58,6 +64,8 @@
 
 ### 03 / GeoD
 
+<a href="https://github.com/gaopengbin/geo-downloader"><img src="./assets/product-stats/geo-downloader.svg" width="100%" alt="GeoD 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+
 <a href="./assets/geod.jpg"><img src="./assets/geod.jpg" width="100%" alt="GeoD 真实界面：行政区选区、地图预览和 GeoTIFF 下载配置" /></a>
 
 **跨平台地理数据下载、处理与导出。**
@@ -71,6 +79,8 @@
 <td width="50%" valign="top">
 
 ### 04 / Cesium MCP
+
+<a href="https://github.com/gaopengbin/cesium-mcp"><img src="./assets/product-stats/cesium-mcp.svg" width="100%" alt="Cesium MCP 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
 
 <a href="./assets/cesium-mcp.jpg"><img src="./assets/cesium-mcp.jpg" width="100%" alt="Cesium MCP 真实场景截图：纽约地图与三维建筑示例" /></a>
 
@@ -88,6 +98,8 @@
 
 ### 05 / 微信创作工具箱
 
+<a href="https://github.com/gaopengbin/wechat-dialog-generator"><img src="./assets/product-stats/wechat-dialog-generator.svg" width="100%" alt="微信创作工具箱的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
+
 <a href="./assets/wechat-toolbox.jpg"><img src="./assets/wechat-toolbox.jpg" width="100%" alt="微信创作工具箱线上实拍：示例聊天编辑与实时手机预览" /></a>
 
 **在线制作微信模拟图，支持批量导出。**
@@ -101,6 +113,8 @@
 <td width="50%" valign="top">
 
 ### 06 / Codex Launch Deck
+
+<a href="https://github.com/gaopengbin/codex-launch-deck"><img src="./assets/product-stats/codex-launch-deck.svg" width="100%" alt="Codex Launch Deck 的 Stars、Forks 与 GitHub 发布资产下载计数" /></a>
 
 <a href="./assets/launch-deck.jpg"><img src="./assets/launch-deck.jpg" width="100%" alt="Launch Deck 便携版真实窗口：ChatGPT / Codex 应用级代理启动与浏览器诊断" /></a>
 

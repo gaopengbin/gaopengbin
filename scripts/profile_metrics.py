@@ -123,6 +123,19 @@ def activity(data):
     return shell(280, 'GitHub contribution activity over the last year', s)
 
 
+def product_badges(product, updated):
+    title = f'{product["label"]}: {product["stars"]} Stars, {product["forks"]} Forks, {product["downloads"]} GitHub release asset downloads; {updated} UTC'
+    segments = [(0, 126, 'STARS', product['stars']),
+                (134, 126, 'FORKS', product['forks']),
+                (268, 192, 'GITHUB DL', product['downloads'])]
+    content = ''
+    for x, width, label, value in segments:
+        content += f'<rect x="{x+.5}" y=".5" width="{width-1}" height="37" rx="9" fill="#111c2d" stroke="#32435a"/>'
+        content += text(x+11, 24, label, 10, '#acbdd3', 600)
+        content += text(x+width-11, 25, f'{value:,}', 16, product['color'], 700, 'text-anchor="end"')
+    return f'<svg xmlns="http://www.w3.org/2000/svg" width="460" height="38" viewBox="0 0 460 38" role="img"><title>{html.escape(title)}</title><g font-family="Segoe UI,Arial,sans-serif">{content}</g></svg>'
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--cached', action='store_true')
@@ -131,8 +144,13 @@ def main():
     data = json.loads(snapshot.read_text(encoding='utf-8')) if args.cached else collect()
     # Only write after every request and render succeeds; preserve last valid visuals on API failure.
     output = metrics(data), activity(data)
+    badges = {p['name']: product_badges(p, data['updated']) for p in data['products']}
     (ROOT/'assets/metrics.svg').write_text(output[0], encoding='utf-8')
     (ROOT/'assets/activity.svg').write_text(output[1], encoding='utf-8')
+    badge_dir = ROOT/'assets/product-stats'
+    badge_dir.mkdir(exist_ok=True)
+    for name, svg in badges.items():
+        (badge_dir/f'{name}.svg').write_text(svg, encoding='utf-8')
     snapshot.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
     print(json.dumps({k:v for k,v in data.items() if k not in ('calendar','products')}, ensure_ascii=False))
 

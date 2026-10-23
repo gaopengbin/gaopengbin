@@ -34,8 +34,18 @@ class ProfileMetricsTests(unittest.TestCase):
             self.assertEqual(len(metrics.pages('test?type=owner')), 102)
             self.assertIn('page=2', api.call_args.args[0])
 
+    def test_each_card_matches_product_data(self):
+        readme = (metrics.ROOT/'README.md').read_text(encoding='utf-8')
+        for p in self.data['products']:
+            svg = metrics.product_badges(p, self.data['updated'])
+            root = ET.fromstring(svg)
+            self.assertEqual(root.attrib['width'], '460')
+            self.assertIn(f'{p["stars"]} Stars, {p["forks"]} Forks, {p["downloads"]} GitHub', svg)
+            self.assertIn(f'assets/product-stats/{p["name"]}.svg', readme)
+
     def test_failed_api_preserves_previous_files(self):
         paths = [metrics.ROOT/'assets'/name for name in ('metrics.svg', 'activity.svg', 'profile-metrics.json')]
+        paths += sorted((metrics.ROOT/'assets/product-stats').glob('*.svg'))
         before = [p.read_bytes() for p in paths]
         with patch.object(metrics, 'collect', side_effect=RuntimeError('test network failure')):
             with patch('sys.argv', ['profile_metrics.py']):
