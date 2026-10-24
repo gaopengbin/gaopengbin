@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "repo_count": 41,
   "stars": 742,
   "forks": 143,
   "followers": 45,
-  "downloads": 10238,
+  "downloads": 10270,
   "products": [
     {
       "name": "geo-downloader",
@@ -12,7 +12,7 @@
       "color": "#66f5cc",
       "stars": 417,
       "forks": 68,
-      "downloads": 9873
+      "downloads": 9903
     },
     {
       "name": "cesium-mcp",
@@ -44,7 +44,7 @@
       "color": "#fb8dc8",
       "stars": 9,
       "forks": 0,
-      "downloads": 318
+      "downloads": 320
     },
     {
       "name": "geod-agent",
@@ -56,7 +56,7 @@
     }
   ],
   "calendar": {
-    "totalContributions": 1279,
+    "totalContributions": 1284,
     "weeks": [
       {
         "contributionDays": [
@@ -1747,6 +1747,10 @@
           {
             "date": "2026-10-23",
             "contributionCount": 8
+          },
+          {
+            "date": "2026-10-24",
+            "contributionCount": 5
           }
         ]
       }
