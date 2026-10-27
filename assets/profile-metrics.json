@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-26",
-  "repo_count": 41,
-  "stars": 749,
+  "updated": "2026-10-27",
+  "repo_count": 42,
+  "stars": 757,
   "forks": 144,
   "followers": 46,
-  "downloads": 10326,
+  "downloads": 10376,
   "products": [
     {
       "name": "geo-downloader",
       "label": "GeoD",
       "color": "#66f5cc",
-      "stars": 417,
+      "stars": 420,
       "forks": 68,
-      "downloads": 9946
+      "downloads": 9990
     },
     {
       "name": "cesium-mcp",
@@ -26,7 +26,7 @@
       "name": "wechat-dialog-generator",
       "label": "WeChat Toolbox",
       "color": "#ffb879",
-      "stars": 72,
+      "stars": 74,
       "forks": 26,
       "downloads": 0
     },
@@ -34,17 +34,17 @@
       "name": "geod-global",
       "label": "GeoD Global",
       "color": "#c49bff",
-      "stars": 70,
+      "stars": 72,
       "forks": 3,
-      "downloads": 14
+      "downloads": 15
     },
     {
       "name": "codex-launch-deck",
       "label": "Launch Deck",
       "color": "#fb8dc8",
-      "stars": 10,
+      "stars": 11,
       "forks": 0,
-      "downloads": 332
+      "downloads": 337
     },
     {
       "name": "geod-agent",
@@ -56,7 +56,7 @@
     }
   ],
   "calendar": {
-    "totalContributions": 1286,
+    "totalContributions": 1304,
     "weeks": [
       {
         "contributionDays": [
@@ -1714,7 +1714,7 @@
           },
           {
             "date": "2026-10-23",
-            "contributionCount": 8
+            "contributionCount": 14
           },
           {
             "date": "2026-10-24",
@@ -1730,7 +1730,11 @@
           },
           {
             "date": "2026-10-26",
-            "contributionCount": 1
+            "contributionCount": 13
+          },
+          {
+            "date": "2026-10-27",
+            "contributionCount": 0
           }
         ]
       }
