@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "repo_count": 42,
-  "stars": 780,
-  "forks": 149,
+  "stars": 784,
+  "forks": 152,
   "followers": 47,
-  "downloads": 11180,
+  "downloads": 11204,
   "products": [
     {
       "name": "geo-downloader",
       "label": "GeoD",
       "color": "#66f5cc",
-      "stars": 428,
+      "stars": 429,
       "forks": 72,
-      "downloads": 10574
+      "downloads": 10593
     },
     {
       "name": "cesium-mcp",
@@ -27,15 +27,15 @@
       "label": "WeChat Toolbox",
       "color": "#ffb879",
       "stars": 80,
-      "forks": 26,
+      "forks": 27,
       "downloads": 0
     },
     {
       "name": "geod-global",
       "label": "GeoD Global",
       "color": "#c49bff",
-      "stars": 75,
-      "forks": 3,
+      "stars": 77,
+      "forks": 4,
       "downloads": 16
     },
     {
@@ -44,7 +44,7 @@
       "color": "#fb8dc8",
       "stars": 12,
       "forks": 0,
-      "downloads": 474
+      "downloads": 477
     },
     {
       "name": "geod-agent",
@@ -52,44 +52,12 @@
       "color": "#8ae4ff",
       "stars": 8,
       "forks": 1,
-      "downloads": 113
+      "downloads": 115
     }
   ],
   "calendar": {
-    "totalContributions": 1343,
+    "totalContributions": 1344,
     "weeks": [
-      {
-        "contributionDays": [
-          {
-            "date": "2025-10-26",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-10-27",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-10-28",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-10-29",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-10-30",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-10-31",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-01",
-            "contributionCount": 0
-          }
-        ]
-      },
       {
         "contributionDays": [
           {
@@ -1750,6 +1718,14 @@
           },
           {
             "date": "2026-10-31",
+            "contributionCount": 1
+          }
+        ]
+      },
+      {
+        "contributionDays": [
+          {
+            "date": "2026-11-01",
             "contributionCount": 0
           }
         ]
