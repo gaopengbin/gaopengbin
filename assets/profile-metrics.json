@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "repo_count": 42,
   "stars": 817,
   "forks": 160,
   "followers": 48,
-  "downloads": 12217,
+  "downloads": 12263,
   "products": [
     {
       "name": "geo-downloader",
@@ -12,7 +12,7 @@
       "color": "#66f5cc",
       "stars": 446,
       "forks": 74,
-      "downloads": 11495
+      "downloads": 11541
     },
     {
       "name": "cesium-mcp",
@@ -1734,6 +1734,10 @@
           },
           {
             "date": "2026-11-17",
+            "contributionCount": 0
+          },
+          {
+            "date": "2026-11-18",
             "contributionCount": 0
           }
         ]
