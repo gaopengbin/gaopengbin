@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "repo_count": 42,
-  "stars": 822,
+  "stars": 823,
   "forks": 160,
   "followers": 49,
-  "downloads": 12408,
+  "downloads": 12449,
   "products": [
     {
       "name": "geo-downloader",
@@ -12,13 +12,13 @@
       "color": "#66f5cc",
       "stars": 450,
       "forks": 74,
-      "downloads": 11674
+      "downloads": 11710
     },
     {
       "name": "cesium-mcp",
       "label": "Cesium MCP",
       "color": "#8eafff",
-      "stars": 152,
+      "stars": 153,
       "forks": 29,
       "downloads": 6
     },
@@ -44,7 +44,7 @@
       "color": "#fb8dc8",
       "stars": 14,
       "forks": 1,
-      "downloads": 548
+      "downloads": 550
     },
     {
       "name": "geod-agent",
@@ -52,44 +52,12 @@
       "color": "#8ae4ff",
       "stars": 9,
       "forks": 1,
-      "downloads": 129
+      "downloads": 132
     }
   ],
   "calendar": {
     "totalContributions": 1394,
     "weeks": [
-      {
-        "contributionDays": [
-          {
-            "date": "2025-11-16",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-17",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-18",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-19",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-20",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-21",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-22",
-            "contributionCount": 0
-          }
-        ]
-      },
       {
         "contributionDays": [
           {
@@ -1750,6 +1718,14 @@
           },
           {
             "date": "2026-11-21",
+            "contributionCount": 0
+          }
+        ]
+      },
+      {
+        "contributionDays": [
+          {
+            "date": "2026-11-22",
             "contributionCount": 0
           }
         ]
