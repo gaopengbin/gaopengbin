@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "repo_count": 42,
-  "stars": 826,
-  "forks": 160,
+  "stars": 830,
+  "forks": 159,
   "followers": 49,
-  "downloads": 12602,
+  "downloads": 12676,
   "products": [
     {
       "name": "geo-downloader",
       "label": "GeoD",
       "color": "#66f5cc",
-      "stars": 451,
+      "stars": 453,
       "forks": 74,
-      "downloads": 11834
+      "downloads": 11906
     },
     {
       "name": "cesium-mcp",
@@ -26,8 +26,8 @@
       "name": "wechat-dialog-generator",
       "label": "WeChat Toolbox",
       "color": "#ffb879",
-      "stars": 89,
-      "forks": 30,
+      "stars": 91,
+      "forks": 29,
       "downloads": 0
     },
     {
@@ -44,7 +44,7 @@
       "color": "#fb8dc8",
       "stars": 14,
       "forks": 1,
-      "downloads": 562
+      "downloads": 564
     },
     {
       "name": "geod-agent",
@@ -1738,6 +1738,10 @@
           },
           {
             "date": "2026-11-25",
+            "contributionCount": 0
+          },
+          {
+            "date": "2026-11-26",
             "contributionCount": 0
           }
         ]
