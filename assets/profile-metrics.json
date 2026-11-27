@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "repo_count": 42,
-  "stars": 830,
+  "stars": 832,
   "forks": 159,
   "followers": 49,
-  "downloads": 12676,
+  "downloads": 12715,
   "products": [
     {
       "name": "geo-downloader",
@@ -12,13 +12,13 @@
       "color": "#66f5cc",
       "stars": 453,
       "forks": 74,
-      "downloads": 11906
+      "downloads": 11940
     },
     {
       "name": "cesium-mcp",
       "label": "Cesium MCP",
       "color": "#8eafff",
-      "stars": 153,
+      "stars": 154,
       "forks": 29,
       "downloads": 6
     },
@@ -36,7 +36,7 @@
       "color": "#c49bff",
       "stars": 80,
       "forks": 4,
-      "downloads": 57
+      "downloads": 59
     },
     {
       "name": "codex-launch-deck",
@@ -44,15 +44,15 @@
       "color": "#fb8dc8",
       "stars": 14,
       "forks": 1,
-      "downloads": 564
+      "downloads": 565
     },
     {
       "name": "geod-agent",
       "label": "GeoD Agent",
       "color": "#8ae4ff",
-      "stars": 10,
+      "stars": 11,
       "forks": 1,
-      "downloads": 143
+      "downloads": 145
     }
   ],
   "calendar": {
@@ -1742,6 +1742,10 @@
           },
           {
             "date": "2026-11-26",
+            "contributionCount": 0
+          },
+          {
+            "date": "2026-11-27",
             "contributionCount": 0
           }
         ]
